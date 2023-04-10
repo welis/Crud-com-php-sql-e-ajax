@@ -3,7 +3,7 @@
 class Conexao {
     private $host = 'localhost';
     private $user = 'root';
-    private  $password = '1263';
+    private  $password = '0000';
     private $dbname = 'crud_client';
 
     public function conectar() {
